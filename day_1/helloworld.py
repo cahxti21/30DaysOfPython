@@ -12,7 +12,7 @@ print(type(9.8))        # Float
 print(type(3.14))       # Float
 print(type(4 - 4j))      # Complex number
 print(type('Asabeneh'))  # String
-print(type([1, 2, 3]))   # List
+print(type([1, 2, 3]))   # List - are ordered, mutable collections that allow duplicates
 print(type({'name':'Asabeneh'})) # Dictionary
-print(type({9.8, 3.14, 2.7}))    # Set
-print(type((9.8, 3.14, 2.7)))    # Tuple
+print(type({9.8, 3.14, 2.7}))    # Set - are unordered, mutable collections of completely unique elements
+print(type((9.8, 3.14, 2.7)))    # Tuple - are ordered, immutable collections that allow duplicates
