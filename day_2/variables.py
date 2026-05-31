@@ -16,6 +16,7 @@
 - ❌ **Cannot** start with a number (e.g., `1user` is invalid).
 - ❌ **Cannot** contain spaces or symbols (e.g., `user-name` or `user$`).
 - ❌ **Cannot** use Python **Reserved Keywords** (e.g., `print`, `if`, `for`, `class`).
+- _if # if we want to use reserved word as a variable
 
 ## 💅 Styling Convention (PEP 8)
 Python uses **snake_case** for variable names. Use lowercase letters and separate words with underscores.
