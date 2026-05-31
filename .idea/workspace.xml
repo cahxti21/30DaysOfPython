@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="697b958c-ffff-47dd-ac91-861a8e9413cd" name="Changes" comment="Added examples to the list &amp; set file,">
-      <change afterPath="$PROJECT_DIR$/day_1/tuple.py" afterDir="false" />
+    <list default="true" id="697b958c-ffff-47dd-ac91-861a8e9413cd" name="Changes" comment="added a file for dictionary, and examples of its uses.">
+      <change afterPath="$PROJECT_DIR$/day_2/bultin_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dictionary.executor": "Run",
     "Python.helloworld (1).executor": "Run",
     "Python.helloworld.executor": "Run",
     "Python.list.executor": "Run",
@@ -55,7 +57,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "1",
+    "git.auto.fetch.suggestion.counter": "3",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Admin/Documents/30DaysOfPython",
     "nodejs_package_manager_path": "npm",
@@ -63,7 +65,32 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.tuple">
+  <component name="RunManager" selected="Python.dictionary">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30DaysOfPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_1/dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="helloworld (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="30DaysOfPython" />
       <option name="ENV_FILES" value="" />
@@ -81,31 +108,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_1/helloworld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="30DaysOfPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.tuple" />
         <item itemvalue="Python.list_and_set (1)" />
         <item itemvalue="Python.helloworld (1)" />
         <item itemvalue="Python.list_and_set" />
-        <item itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +244,8 @@
       <workItem from="1780137880062" duration="159000" />
       <workItem from="1780138053089" duration="1668000" />
       <workItem from="1780141632278" duration="297000" />
-      <workItem from="1780149622857" duration="4146000" />
+      <workItem from="1780149622857" duration="4195000" />
+      <workItem from="1780202174344" duration="2318000" />
     </task>
     <task id="LOCAL-00001" summary="Added separate List file.">
       <option name="closed" value="true" />
@@ -260,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780150676483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added a file for tuples, and examples of its uses.">
+      <option name="closed" value="true" />
+      <created>1780153809363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780153809363</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added a file for dictionary, and examples of its uses.">
+      <option name="closed" value="true" />
+      <created>1780203566198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780203566198</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +289,9 @@
     <MESSAGE value="trying out lists, and how Python reads them" />
     <MESSAGE value="Added separate List file." />
     <MESSAGE value="Added examples to the list &amp; set file," />
-    <option name="LAST_COMMIT_MESSAGE" value="Added examples to the list &amp; set file," />
+    <MESSAGE value="added a file for tuples, and examples of its uses." />
+    <MESSAGE value="added a file for dictionary, and examples of its uses." />
+    <option name="LAST_COMMIT_MESSAGE" value="added a file for dictionary, and examples of its uses." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/30DaysOfPython$main.coverage" NAME="main Coverage Results" MODIFIED="1780137699638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -278,6 +299,7 @@
     <SUITE FILE_PATH="coverage/30DaysOfPython$list_and_set__1_.coverage" NAME="list_and_set (1) Coverage Results" MODIFIED="1780150609042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1780149450368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$list.coverage" NAME="list Coverage Results" MODIFIED="1780149504510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
-    <SUITE FILE_PATH="coverage/30DaysOfPython$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1780153115387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
+    <SUITE FILE_PATH="coverage/30DaysOfPython$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1780202622486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
+    <SUITE FILE_PATH="coverage/30DaysOfPython$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1780203289330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
   </component>
 </project>
