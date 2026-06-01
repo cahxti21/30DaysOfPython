@@ -35,7 +35,7 @@ perimeter_of_rectangle = 2 * (length_of_rectangle + width_of_rectangle)
 print("The perimeter of the rectangle is ", perimeter_of_rectangle)
 
 """
-
+"""
 # Define the known parameters from y = 2x - 2
 m = 2  # Slope
 b = -2 # y-intercept
@@ -47,3 +47,9 @@ x_intercept = -b / m
 print(f"Slope: {m}")
 print(f"y-intercept: (0, {b})")
 print(f"x-intercept: ({x_intercept}, 0)")
+"""
+
+working_hours = float(input("Enter working hours: "))
+rate_per_hour = float(input("Enter rate per hour: "))
+weekly_earnings = working_hours * rate_per_hour
+print("Your weekly earnings is ", weekly_earnings)
