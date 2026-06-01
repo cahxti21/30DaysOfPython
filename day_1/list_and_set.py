@@ -51,3 +51,10 @@ print(colors)  # Output: {'red', 'green', 'yellow', 'blue'}
 # 3. Remove an item (Shows Mutability)
 colors.discard("green")
 print(colors)  # Output: {'red', 'yellow', 'blue'}
+
+
+prutas = ['apol', 'saging', 'mangga']
+print(prutas[0])
+print(prutas[1])
+print(prutas[2])
+print(prutas[-1])
