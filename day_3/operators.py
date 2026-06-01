@@ -51,5 +51,5 @@ print(f"x-intercept: ({x_intercept}, 0)")
 
 working_hours = float(input("Enter working hours: "))
 rate_per_hour = float(input("Enter rate per hour: "))
-weekly_earnings = working_hours * rate_per_hour
+weekly_earnings = working_hours * rate_per_hour * 5
 print("Your weekly earnings is ", weekly_earnings)
