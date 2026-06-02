@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="697b958c-ffff-47dd-ac91-861a8e9413cd" name="Changes" comment="tested something." />
+    <list default="true" id="697b958c-ffff-47dd-ac91-861a8e9413cd" name="Changes" comment="Day 5 starts.">
+      <change afterPath="$PROJECT_DIR$/day_5/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_5/Collection_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_5/Collection_data.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="21" />
+    <option name="cachedIndexableFilesCount" value="22" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000003302400846" />
-      <entry key="MS500" value="1.0594347874863164" />
-      <entry key="S2" value="2.3583496043283487" />
-      <entry key="S5" value="4.203804791187089" />
-      <entry key="S10" value="5.380221977082531" />
-      <entry key="S30" value="8.14753048863339" />
-      <entry key="S60" value="12.783185026243048" />
-      <entry key="M2" value="18.453372787500474" />
-      <entry key="M5" value="29.058235451767096" />
-      <entry key="M10" value="56.524601430376705" />
-      <entry key="M15" value="87.63693538285784" />
-      <entry key="M30" value="166.46392043561687" />
-      <entry key="H1" value="259.7812457367508" />
-      <entry key="H2" value="339.29882077282724" />
-      <entry key="H4" value="392.8208490552486" />
-      <entry key="D1" value="446.9490009148334" />
-      <entry key="W1" value="457.2513051780621" />
+      <entry key="MS100" value="1.0000970427030758" />
+      <entry key="MS500" value="1.2694822488451756" />
+      <entry key="S2" value="3.0384261803217947" />
+      <entry key="S5" value="4.411736821813674" />
+      <entry key="S10" value="5.15323997373933" />
+      <entry key="S30" value="6.893407000295043" />
+      <entry key="S60" value="10.914260829919387" />
+      <entry key="M2" value="19.207388772773157" />
+      <entry key="M5" value="33.72926714119658" />
+      <entry key="M10" value="46.38133635325252" />
+      <entry key="M15" value="56.14615829305563" />
+      <entry key="M30" value="100.1656932877154" />
+      <entry key="H1" value="221.637967281542" />
+      <entry key="H2" value="400.4249120613871" />
+      <entry key="H4" value="564.3381670000751" />
+      <entry key="D1" value="768.2073390755457" />
+      <entry key="W1" value="811.5053674213397" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="2.200265376657906E-227" />
+      <entry key="MS500" value="4.661170755014836E-46" />
+      <entry key="S2" value="4.646476588619311E-12" />
+      <entry key="S5" value="2.930189028020367E-5" />
+      <entry key="S10" value="0.0054686258382002865" />
+      <entry key="S30" value="0.21379098829404228" />
+      <entry key="S60" value="0.6144990542646768" />
+      <entry key="M2" value="1.0894467386931124" />
+      <entry key="M5" value="1.5617964127441577" />
+      <entry key="M10" value="1.7660871397022602" />
+      <entry key="M15" value="1.8405515398969992" />
+      <entry key="M30" value="1.918465209121172" />
+      <entry key="H1" value="1.9587688778996575" />
+      <entry key="H2" value="1.979267090351401" />
+      <entry key="H4" value="1.9896040289255432" />
+      <entry key="D1" value="1.9982632233804702" />
+      <entry key="W1" value="1.9997517880843119" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9726552686218816" />
-      <entry key="MS500" value="1.053556285639386" />
-      <entry key="S2" value="2.354635672518751" />
-      <entry key="S5" value="4.200973194102555" />
-      <entry key="S10" value="5.376690146177858" />
-      <entry key="S30" value="8.117215556766379" />
-      <entry key="S60" value="12.738778262418387" />
-      <entry key="M2" value="18.414326139075794" />
-      <entry key="M5" value="29.031221913763407" />
-      <entry key="M10" value="56.498963590215574" />
-      <entry key="M15" value="87.61186793599914" />
-      <entry key="M30" value="166.44167768533012" />
-      <entry key="H1" value="259.7640253678594" />
-      <entry key="H2" value="339.28743872975497" />
-      <entry key="H4" value="392.81418883152236" />
-      <entry key="D1" value="446.9477234342646" />
-      <entry key="W1" value="457.2511180690671" />
+      <entry key="MS100" value="0.9527291810760228" />
+      <entry key="MS500" value="1.2567393247869425" />
+      <entry key="S2" value="3.0304449321826015" />
+      <entry key="S5" value="4.406990742513439" />
+      <entry key="S10" value="5.152931283355858" />
+      <entry key="S30" value="7.074780411004822" />
+      <entry key="S60" value="11.48007331601328" />
+      <entry key="M2" value="20.249011614612375" />
+      <entry key="M5" value="35.256571217677326" />
+      <entry key="M10" value="48.11839849072007" />
+      <entry key="M15" value="57.96039383970391" />
+      <entry key="M30" value="102.06176056946853" />
+      <entry key="H1" value="223.57692751774817" />
+      <entry key="H2" value="402.3884366266782" />
+      <entry key="H4" value="566.3172360535672" />
+      <entry key="D1" value="770.2032894844886" />
+      <entry key="W1" value="813.5047717889819" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -108,42 +112,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.exercise_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.helloworld (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_and_set (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_and_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;2&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Documents/30DaysOfPython&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Collection_data.executor": "Run",
+    "Python.exercise1.executor": "Run",
+    "Python.exercise_1.executor": "Run",
+    "Python.helloworld (1).executor": "Run",
+    "Python.helloworld.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_and_set (1).executor": "Run",
+    "Python.list_and_set.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.operators2.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "2",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Admin/Documents/30DaysOfPython",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.list_and_set">
+}]]></component>
+  <component name="RunManager" selected="Python.exercise1">
+    <configuration name="Collection_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30DaysOfPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_5/Collection_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="30DaysOfPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_5/exercise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="list_and_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="30DaysOfPython" />
       <option name="ENV_FILES" value="" />
@@ -219,31 +275,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operators2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="30DaysOfPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_3/operators2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="30DaysOfPython" />
       <option name="ENV_FILES" value="" />
@@ -269,38 +300,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="30DaysOfPython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_1/tuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise1" />
+        <item itemvalue="Python.Collection_data" />
         <item itemvalue="Python.list_and_set" />
         <item itemvalue="Python.strings" />
         <item itemvalue="Python.operators" />
-        <item itemvalue="Python.operators2" />
-        <item itemvalue="Python.tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -327,6 +333,8 @@
       <workItem from="1780214606817" duration="2402000" />
       <workItem from="1780300510990" duration="5116000" />
       <workItem from="1780308626540" duration="166000" />
+      <workItem from="1780385194437" duration="4403000" />
+      <workItem from="1780393476754" duration="1166000" />
     </task>
     <task id="LOCAL-00001" summary="Added separate List file.">
       <option name="closed" value="true" />
@@ -400,7 +408,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780308780483</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 5 starts.">
+      <option name="closed" value="true" />
+      <created>1780385387036</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1780385387036</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +433,8 @@
     <MESSAGE value="Finished day 3." />
     <MESSAGE value="finished day 4." />
     <MESSAGE value="tested something." />
-    <option name="LAST_COMMIT_MESSAGE" value="tested something." />
+    <MESSAGE value="Day 5 starts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5 starts." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/30DaysOfPython$exercise_1.coverage" NAME="exercise_1 Coverage Results" MODIFIED="1780208211634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_2" />
@@ -425,6 +442,7 @@
     <SUITE FILE_PATH="coverage/30DaysOfPython$list.coverage" NAME="list Coverage Results" MODIFIED="1780149504510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1780203289330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$operators2.coverage" NAME="operators2 Coverage Results" MODIFIED="1780303467117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_3" />
+    <SUITE FILE_PATH="coverage/30DaysOfPython$Collection_data.coverage" NAME="Collection_data Coverage Results" MODIFIED="1780392321218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_5" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$main.coverage" NAME="main Coverage Results" MODIFIED="1780137699638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$list_and_set__1_.coverage" NAME="list_and_set (1) Coverage Results" MODIFIED="1780150609042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
     <SUITE FILE_PATH="coverage/30DaysOfPython$helloworld__1_.coverage" NAME="helloworld (1) Coverage Results" MODIFIED="1780149838118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1" />
